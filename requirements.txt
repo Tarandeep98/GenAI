@@ -1,0 +1,39 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Groq
+langchain-groq
+
+# Environment variables
+python-dotenv
+
+# Data & ML
+numpy
+pandas
+scikit-learn
+
+# Validation
+pydantic
+
+# Document loaders
+pypdf
+
+# Vector Stores
+chromadb
+faiss-cpu
+langchain-chroma
+
+# Retrievers
+wikipedia
+
+# YouTube transcript
+youtube-transcript-api
