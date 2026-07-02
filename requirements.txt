@@ -37,3 +37,6 @@ wikipedia
 
 # YouTube transcript
 youtube-transcript-api
+
+ddgs
+langchain-experimental
